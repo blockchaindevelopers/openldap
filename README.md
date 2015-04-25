@@ -74,7 +74,7 @@ CONTRIBUTING
     <http://www.openldap.org/its/> to be considered.
 
 ---
-$OpenLDAP$
+OpenLDAP
 
 This work is part of OpenLDAP Software <http://www.openldap.org/>.
 
